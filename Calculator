@@ -27,4 +27,8 @@ Console.WriteLine("The sum of {num 1} and {num 2} is equal to the {sum}.");
 
 
 
+ conflict_branch-2
+Console.WriteLine("I tried very hard.");
+
 Console.WriteLine("This assessment is very hard.");
+ main
