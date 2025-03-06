@@ -1,4 +1,5 @@
 Console.WriteLine("My name is Sara and roll no is 24-ST-043.");
+ substraction
  multiplication
 int num 1= 9;
  division
@@ -16,3 +17,9 @@ int num 2=5;
 int subtract =num 1-num 2;
 Console.WriteLine("Subtraction of {num 1} and {num 2} is equal to  {subtract}.");
  substraction
+
+int num 1=9;
+int num 2=5;
+int sum=num 1+num 2;
+Console.WriteLine("The sum of {num 1} and {num 2} is equal to the {sum}.");
+ addition
